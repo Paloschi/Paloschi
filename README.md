@@ -21,9 +21,9 @@
 
 ## About Me
 
-- Senior Geospatial Engineer: remote sensing, GIS, and production spatial systems
+- Senior Geospatial Engineer with a PhD in Remote Sensing from INPE
+- Co-founder of Picsel: I own the geospatial stack for agricultural insurance
 - I turn satellite, climate, and soil data into risk and yield products
-- Work on agricultural insurance, crop monitoring, and geotecnologia platforms
 - From raster pipelines and Earth Engine to PostGIS, APIs, and maps in production
 
 ---
@@ -39,8 +39,12 @@
   <img src="https://img.shields.io/badge/Google%20Earth%20Engine-black?style=for-the-badge&logo=googleearth&logoColor=white" />
   <img src="https://img.shields.io/badge/Sentinel%20%2F%20HLS-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/GeoTIFF%20%2F%20COG-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GeoParquet-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DuckDB-black?style=for-the-badge&logo=duckdb" />
   <img src="https://img.shields.io/badge/Leaflet-black?style=for-the-badge&logo=leaflet" />
   <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Step%20Functions-black?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </p>
 
 ---
@@ -48,17 +52,17 @@
 ## Featured Projects
 
 ### TabGeo
-Content platform for geotecnologia professionals who need practical, high-value material.  
+Content platform for geospatial professionals who need practical, high-value material.  
 **Tech:** Next.js, React, Node.js, PostgreSQL, Jest  
 [Repository](https://github.com/Paloschi/tabgeo.com.br) • [Live](https://tabgeo.com.br)
 
 ### Picsel
-Private geospatial risk platform for agricultural insurance — satellite monitoring, productive risk scoring, and claims workflows for insurers and reinsurers.  
-**Tech:** Python, GDAL, GeoPandas, Rasterio, PostGIS, Google Earth Engine, Sentinel/HLS, NDVI, TensorFlow, AWS, Leaflet  
+Co-founded geospatial platform for agricultural insurance. I own the stack end to end — remote crop inspection, cotton stand-count, and Vision Suite, where insurers inspect satellite evidence on the map. Rural quotations went from several days to about 3 minutes.  
+**Tech:** Python, GDAL, GeoPandas, Rasterio, PostGIS, Google Earth Engine, Sentinel/HLS, NDVI, GeoTIFF/COG, TensorFlow, AWS Step Functions, Metaflow, Leaflet  
 [Website](https://picsel.com.br)
 
 ### Eco Grade
-Private marketplace for B-grade food products — buyers and sellers trade surplus stock before it becomes waste.  
+B2B sustainability marketplace for the EU (eco grade GmbH) — from compliance-gated seller onboarding to Stripe subscriptions with EU VAT.  
 **Tech:** Next.js, React, PostgreSQL, Stripe, Vitest  
 [Website](https://eco-grade.com)
 
