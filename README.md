@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Paloschi</h1>
+<h1 align="center">Hi, I'm Rennan Paloschi</h1>
 <h3 align="center">Senior Geospatial Engineer</h3>
 
 <p align="center">
