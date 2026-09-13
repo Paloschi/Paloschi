@@ -49,13 +49,18 @@
 
 ### TabGeo
 Content platform for geotecnologia professionals who need practical, high-value material.  
-**Tech:** Next.js, React, Node.js, PostgreSQL  
+**Tech:** Next.js, React, Node.js, PostgreSQL, Jest  
 [Repository](https://github.com/Paloschi/tabgeo.com.br) • [Live](https://tabgeo.com.br)
 
 ### Picsel
 Private geospatial risk platform for agricultural insurance — satellite monitoring, productive risk scoring, and claims workflows for insurers and reinsurers.  
 **Tech:** Python, GDAL, GeoPandas, Rasterio, PostGIS, Google Earth Engine, Sentinel/HLS, NDVI, TensorFlow, AWS, Leaflet  
 [Website](https://picsel.com.br)
+
+### Eco Grade
+Private marketplace for B-grade food products — buyers and sellers trade surplus stock before it becomes waste.  
+**Tech:** Next.js, React, PostgreSQL, Stripe, Vitest  
+[Website](https://eco-grade.com)
 
 ### CyMP
 Open-source Crop-yield Modeling Platform for spatial agricultural yield estimation, developed at UNIOESTE.  
