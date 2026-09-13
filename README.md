@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Paloschi</h1>
-<h3 align="center">Building cool things with code</h3>
+<h3 align="center">Senior Geospatial Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/Paloschi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+developer;Always+learning+new+things;Building+useful+and+modern+projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=560&lines=Senior+Geospatial+Engineer;Earth+observation+and+GIS;Production+geospatial+systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,52 +21,46 @@
 
 ## About Me
 
-- Passionate about technology and software development
-- Focused on building modern, useful, and clean projects
-- Always learning, improving, and exploring new tools
-- Interested in web development, automation, and problem-solving
+- Senior Geospatial Engineer: remote sensing, GIS, and production spatial systems
+- I turn satellite, climate, and soil data into risk and yield products
+- Work on agricultural insurance, crop monitoring, and geotecnologia platforms
+- From raster pipelines and Earth Engine to PostGIS, APIs, and maps in production
 
 ---
 
 ## Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Paloschi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paloschi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/GDAL-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GeoPandas-black?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Rasterio-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostGIS-black?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-black?style=for-the-badge&logo=googleearth&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentinel%20%2F%20HLS-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Leaflet-black?style=for-the-badge&logo=leaflet" />
+  <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </p>
 
 ---
 
 ## Featured Projects
 
-### Project One
-Short description of the project and the problem it solves.  
-**Tech:** React, Node.js, PostgreSQL  
-[Repository](#) • [Live Demo](#)
+### TabGeo
+Content platform for geotecnologia professionals who need practical, high-value material.  
+**Tech:** Next.js, React, Node.js, PostgreSQL  
+[Repository](https://github.com/Paloschi/tabgeo.com.br) • [Live](https://tabgeo.com.br)
 
-### Project Two
-Short description of the project and why it matters.  
-**Tech:** Next.js, Tailwind, Firebase  
-[Repository](#) • [Live Demo](#)
+### Picsel
+Private geospatial risk platform for agricultural insurance — satellite monitoring, productive risk scoring, and claims workflows for insurers and reinsurers.  
+**Tech:** Python, GDAL, GeoPandas, Rasterio, PostGIS, Google Earth Engine, Sentinel/HLS, NDVI, TensorFlow, AWS, Leaflet  
+[Website](https://picsel.com.br)
 
-### Project Three
-Short description of the project and its main idea.  
-**Tech:** Python, Automation  
-[Repository](#)
+### CyMP
+Open-source Crop-yield Modeling Platform for spatial agricultural yield estimation, developed at UNIOESTE.  
+**Tech:** Python, Remote Sensing, GIS  
+[Repository](https://github.com/Paloschi/CyMP)
 
 ---
 
@@ -76,10 +70,7 @@ Short description of the project and its main idea.
   <a href="https://linkedin.com/in/your-link">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:rennanandrespaloschi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
