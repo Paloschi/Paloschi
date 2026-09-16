@@ -32,6 +32,10 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Numba-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CUDA-black?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/xarray-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zarr-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GDAL-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GeoPandas-black?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Rasterio-black?style=for-the-badge" />
@@ -51,23 +55,34 @@
 
 ## Featured Projects
 
-### TabGeo
+### 1. AquaCrop-Grid
+
+Open-source **pixel-wise AquaCrop** on rasters: zarr climate and sowing in, yield and biomass grids out. Daily kernels compiled with Numba (CPU + CUDA GPU), bit-exact against AquaCrop-OSPy. Per-pixel soil from HiHydroSoil hydraulics or sand/silt/clay texture.
+
+**Tech:** Python, Numba, CUDA, xarray, zarr, AquaCrop  
+[Repository](https://github.com/Paloschi/aquacrop-grid)
+
+### 2. TabGeo
+
 Content platform for geospatial professionals who need practical, high-value material.  
 **Tech:** Next.js, React, Node.js, PostgreSQL, Jest  
 [Repository](https://github.com/Paloschi/tabgeo.com.br) • [Live](https://tabgeo.com.br)
 
-### Picsel
+### 3. Picsel
+
 Co-founded geospatial platform for agricultural insurance. I own the stack end to end — remote crop inspection, cotton stand-count, and Vision Suite, where insurers inspect satellite evidence on the map. Rural quotations went from several days to about 3 minutes.  
 **Tech:** Python, GDAL, GeoPandas, Rasterio, PostGIS, Google Earth Engine, Sentinel/HLS, NDVI, GeoTIFF/COG, TensorFlow, AWS Step Functions, Metaflow, Leaflet  
 [Website](https://picsel.com.br)
 
-### Eco Grade
+### 4. Eco Grade
+
 B2B sustainability marketplace for the EU (eco grade GmbH) — from compliance-gated seller onboarding to Stripe subscriptions with EU VAT.  
 **Tech:** Next.js, React, PostgreSQL, Stripe, Vitest  
 [Website](https://eco-grade.com)
 
-### CyMP
-Open-source Crop-yield Modeling Platform for spatial agricultural yield estimation, developed at UNIOESTE.  
+### 5. CyMP
+
+Open-source Crop-yield Modeling Platform for spatial agricultural yield estimation, developed at UNIOESTE. AquaCrop-Grid started here.  
 **Tech:** Python, Remote Sensing, GIS  
 [Repository](https://github.com/Paloschi/CyMP)
 
@@ -76,7 +91,7 @@ Open-source Crop-yield Modeling Platform for spatial agricultural yield estimati
 ## Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://www.linkedin.com/in/rennan-paloschi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rennanandrespaloschi@gmail.com">
