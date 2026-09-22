@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hi, I'm Rennan Paloschi</h1>
+<h1 align="center">Hi, I'm Rennan Paloschi</h1>
 <h3 align="center">Senior Geospatial Engineer</h3>
 
 <p align="center">
@@ -67,17 +67,17 @@ Open-source **pixel-wise AquaCrop** on rasters: zarr climate and sowing in, yiel
 
 Content platform for geospatial professionals who need practical, high-value material.  
 **Tech:** Next.js, React, Node.js, PostgreSQL, Jest  
-[Repository](https://github.com/Paloschi/tabgeo.com.br) â€¢ [Live](https://tabgeo.com.br)
+[Repository](https://github.com/Paloschi/tabgeo.com.br) • [Live](https://tabgeo.com.br)
 
 ### 3. Picsel
 
-Co-founded geospatial platform for agricultural insurance. I own the stack end to end â€” remote crop inspection, cotton stand-count, and Vision Suite, where insurers inspect satellite evidence on the map. Rural quotations went from several days to about 3 minutes.  
+Co-founded geospatial platform for agricultural insurance. I own the stack end to end — remote crop inspection, cotton stand-count, and Vision Suite, where insurers inspect satellite evidence on the map. Rural quotations went from several days to about 3 minutes.  
 **Tech:** Python, GDAL, GeoPandas, Rasterio, PostGIS, Google Earth Engine, Sentinel/HLS, NDVI, GeoTIFF/COG, TensorFlow, AWS Step Functions, Metaflow, Leaflet  
 [Website](https://picsel.com.br)
 
 ### 4. Eco Grade
 
-B2B sustainability marketplace for the EU (eco grade GmbH) â€” from compliance-gated seller onboarding to Stripe subscriptions with EU VAT.  
+B2B sustainability marketplace for the EU (eco grade GmbH) — from compliance-gated seller onboarding to Stripe subscriptions with EU VAT.  
 **Tech:** Next.js, React, PostgreSQL, Stripe, Vitest  
 [Website](https://eco-grade.com)
 
@@ -87,25 +87,25 @@ Open-source **Granier-style sap-flow field logger** (ESP32, microSD, Bluetooth L
 
 **Publications**
 
-- Paloschi, R. A., et al. (2021). Environmental Drivers of Water Use for Caatinga Woody Plant Species: Combining Remote Sensing Phenology and Sap Flow Measurements. *Remote Sensing*, 13(1), 75. â€” https://doi.org/10.3390/rs13010075
-- Ventura, D. J., et al. (2024). Seasonal dynamics of water sources for woody plants in the Caatinga. Authorea preprint. â€” https://doi.org/10.22541/au.173397840.03126234/v1
-- Paloschi, R. A. (2020/2021). *Seasonality of water availability, plant phenology, and plant transpiration in a Brazilian Caatinga environment investigated by in situ and remote sensing data*. Ph.D. thesis, INPE. â€” http://urlib.net/sid.inpe.br/mtc-m21c/2021/01.13.15.06
-- Medeiros, M., et al. (2025). Seasonal shifts in tree water use and non-structural carbohydrate storage in a tropical dry forest. *Plant, Cell & Environment*, 48(6), 4518â€“4532. â€” https://doi.org/10.1111/pce.15449
-- Jesus, A. L. N., et al. (2025). Semiarid woody plant functional groups contribute differently to canopy conductance. *Journal of Arid Environments*. â€” https://doi.org/10.1016/j.jaridenv.2025.105318
+- Paloschi, R. A., et al. (2021). Environmental Drivers of Water Use for Caatinga Woody Plant Species: Combining Remote Sensing Phenology and Sap Flow Measurements. *Remote Sensing*, 13(1), 75. — https://doi.org/10.3390/rs13010075
+- Ventura, D. J., et al. (2024). Seasonal dynamics of water sources for woody plants in the Caatinga. Authorea preprint. — https://doi.org/10.22541/au.173397840.03126234/v1
+- Paloschi, R. A. (2020/2021). *Seasonality of water availability, plant phenology, and plant transpiration in a Brazilian Caatinga environment investigated by in situ and remote sensing data*. Ph.D. thesis, INPE. — http://urlib.net/sid.inpe.br/mtc-m21c/2021/01.13.15.06
+- Medeiros, M., et al. (2025). Seasonal shifts in tree water use and non-structural carbohydrate storage in a tropical dry forest. *Plant, Cell & Environment*, 48(6), 4518–4532. — https://doi.org/10.1111/pce.15449
+- Jesus, A. L. N., et al. (2025). Semiarid woody plant functional groups contribute differently to canopy conductance. *Journal of Arid Environments*. — https://doi.org/10.1016/j.jaridenv.2025.105318
 
 **Tech:** ESP32, Arduino, BLE, SD, RTClib / INA219 / thermocouple  
 [Repository](https://github.com/Paloschi/sapflow-logger)
 
 ### 6. CyMP
 
-Open-source **Crop-yield Modeling Platform** for spatial agricultural yield estimation (FAO water balance on MODIS / ECMWF rasters), developed at UNIOESTEâ€“LEA. AquaCrop-Grid started from this lineage. Software registration **INPI BR 51 2017 000623-7**.
+Open-source **Crop-yield Modeling Platform** for spatial agricultural yield estimation (FAO water balance on MODIS / ECMWF rasters), developed at UNIOESTE–LEA. AquaCrop-Grid started from this lineage. Software registration **INPI BR 51 2017 000623-7**.
 
 **Publications**
 
-- Paloschi, R. A. (2016). *Software aplicado a modelos de estimativa de produtividade agrÃ­cola*. M.Sc. dissertation (Agricultural Engineering), UNIOESTE, Cascavel. â€” https://tede.unioeste.br/handle/tede/2726
-- Paloschi, R. A.; Johann, J. A.; Santa Catarina, A. Crop-yield Modeling Platform (CyMP). Computer program registration **INPI BR 51 2017 000623-7**. â€” https://www.gov.br/inpi/pt-br
-- Biasotto, G.; Johann, J. A.; Richetti, J.; Becker, W. R. (2017). DeterminaÃ§Ã£o da sÃ©rie histÃ³rica mensal do balanÃ§o hÃ­drico para o estado do ParanÃ¡ utilizando o modelo ECMWF. In: *Anais do XVIII SBSR*. (uses CyMP). â€” http://urlib.net/sid.inpe.br/marte2/2017/10.27.15.27.59
-- Successor / evolution: AquaCrop-Grid (pixel-wise AquaCrop on rasters). â€” https://github.com/Paloschi/aquacrop-grid
+- Paloschi, R. A. (2016). *Software aplicado a modelos de estimativa de produtividade agrícola*. M.Sc. dissertation (Agricultural Engineering), UNIOESTE, Cascavel. — https://tede.unioeste.br/handle/tede/2726
+- Paloschi, R. A.; Johann, J. A.; Santa Catarina, A. Crop-yield Modeling Platform (CyMP). Computer program registration **INPI BR 51 2017 000623-7**. — https://www.gov.br/inpi/pt-br
+- Biasotto, G.; Johann, J. A.; Richetti, J.; Becker, W. R. (2017). Determinação da série histórica mensal do balanço hídrico para o estado do Paraná utilizando o modelo ECMWF. In: *Anais do XVIII SBSR*. (uses CyMP). — http://urlib.net/sid.inpe.br/marte2/2017/10.27.15.27.59
+- Successor / evolution: AquaCrop-Grid (pixel-wise AquaCrop on rasters). — https://github.com/Paloschi/aquacrop-grid
 
 **Tech:** Python, Remote Sensing, GIS  
 [Repository](https://github.com/Paloschi/CyMP)
