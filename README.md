@@ -89,7 +89,7 @@ B2B sustainability marketplace for the EU (eco grade GmbH) — from compliance-g
 
 ### 5. SapFlow Logger <sub>[Repository](https://github.com/Paloschi/sapflow-logger)</sub>
 
-Open-source **Granier-style sap-flow field logger** (ESP32, microSD, Bluetooth Low Energy, phone download). Hardware 6.0 is open in this repo; earlier thesis-era units supported Caatinga work at INPE.
+Open-source **Granier-style sap-flow field logger** (ESP32, microSD, Bluetooth Low Energy, phone download). Hardware 6.0 is open in this repo; earlier thesis-era units supported Caatinga work at INPE. [Demo video](https://www.youtube.com/watch?v=al5Gi5oz8YY&t=558s) (Portuguese).
 
 **Publications**
 
