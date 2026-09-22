@@ -98,7 +98,15 @@ Open-source **Granier-style sap-flow field logger** (ESP32, microSD, Bluetooth L
 
 ### 6. CyMP
 
-Open-source Crop-yield Modeling Platform for spatial agricultural yield estimation, developed at UNIOESTE. AquaCrop-Grid started here.  
+Open-source **Crop-yield Modeling Platform** for spatial agricultural yield estimation (FAO water balance on MODIS / ECMWF rasters), developed at UNIOESTE–LEA. AquaCrop-Grid started from this lineage. Software registration **INPI BR 51 2017 000623-7**.
+
+**Citations**
+
+- Paloschi, R. A. (2016). *Software aplicado a modelos de estimativa de produtividade agrícola*. M.Sc. dissertation (Agricultural Engineering), UNIOESTE, Cascavel. — https://tede.unioeste.br/handle/tede/2726
+- Paloschi, R. A.; Johann, J. A.; Santa Catarina, A. Crop-yield Modeling Platform (CyMP). Computer program registration **INPI BR 51 2017 000623-7**. — https://www.gov.br/inpi/pt-br
+- Biasotto, G.; Johann, J. A.; Richetti, J.; Becker, W. R. (2017). Determinação da série histórica mensal do balanço hídrico para o estado do Paraná utilizando o modelo ECMWF. In: *Anais do XVIII SBSR*. (uses CyMP). — http://urlib.net/sid.inpe.br/marte2/2017/10.27.15.27.59
+- Successor / evolution: AquaCrop-Grid (pixel-wise AquaCrop on rasters). — https://github.com/Paloschi/aquacrop-grid
+
 **Tech:** Python, Remote Sensing, GIS  
 [Repository](https://github.com/Paloschi/CyMP)
 
