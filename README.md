@@ -83,7 +83,12 @@ B2B sustainability marketplace for the EU (eco grade GmbH) — from compliance-g
 
 ### 5. SapFlow Logger
 
-Open-source **Granier-style sap-flow field logger** (ESP32, microSD, Bluetooth Low Energy, phone download). Hardware 6.0 is in the repo; earlier thesis-era units supported Caatinga water-use work at INPE (see [Paloschi et al. 2021](https://doi.org/10.3390/rs13010075) and the [PhD thesis](http://urlib.net/sid.inpe.br/mtc-m21c/2021/01.13.15.06)).
+Open-source **Granier-style sap-flow field logger** (ESP32, microSD, Bluetooth Low Energy, phone download). Hardware 6.0 is in this repo; earlier thesis-era units supported Caatinga campaigns at INPE.
+
+Selected citations (thesis-era logger):
+- [Paloschi et al. 2021](https://doi.org/10.3390/rs13010075) — *Remote Sensing* (first author): environmental drivers of Caatinga water use with sap flow + phenology
+- [Ventura et al. 2024](https://doi.org/10.22541/au.173397840.03126234/v1) — Authorea (co-author; Dione Judite Ventura lead): seasonal water sources for Caatinga woody plants
+- [PhD thesis, INPE](http://urlib.net/sid.inpe.br/mtc-m21c/2021/01.13.15.06) — *Seasonality of water availability, plant phenology, and plant transpiration in a Brazilian Caatinga environment…*
 
 **Tech:** ESP32, Arduino, BLE, SD, RTClib / INA219 / thermocouple  
 [Repository](https://github.com/Paloschi/sapflow-logger)
