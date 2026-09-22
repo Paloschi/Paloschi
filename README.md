@@ -60,11 +60,16 @@
 
 Open-source **pixel-wise AquaCrop** on rasters: zarr climate and sowing in, yield and biomass grids out. Daily kernels compiled with Numba (CPU + CUDA GPU), bit-exact against AquaCrop-OSPy. Per-pixel soil from HiHydroSoil hydraulics or sand/silt/clay texture.
 
+*Early stage — we are just getting this project started.*
+
 **Tech:** Python, Numba, CUDA, xarray, zarr, AquaCrop  
 
 ### 2. TabGeo <sub>[Repository](https://github.com/Paloschi/tabgeo.com.br) · [Live](https://tabgeo.com.br)</sub>
 
-Content platform for geospatial professionals who need practical, high-value material.  
+Content platform for geospatial professionals who need practical, high-value material.
+
+*Early stage — we are just getting this project started.*
+
 **Tech:** Next.js, React, Node.js, PostgreSQL, Jest  
 
 ### 3. Picsel <sub>[Website](https://picsel.com.br)</sub>
