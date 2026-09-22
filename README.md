@@ -71,7 +71,12 @@ Content platform for geospatial professionals who need practical, high-value mat
 
 ### 3. Picsel
 
-Co-founded geospatial platform for agricultural insurance. I own the stack end to end — remote crop inspection, cotton stand-count, and Vision Suite, where insurers inspect satellite evidence on the map. Rural quotations went from several days to about 3 minutes.  
+Co-founded geospatial platform for agricultural insurance. I own the stack end to end — remote crop inspection, cotton stand-count, and Vision Suite, where insurers inspect satellite evidence on the map. Rural quotations went from several days to about 3 minutes.
+
+**Publications**
+
+- Paloschi, R. A.; Ozaki, V. A.; Miquelluti, D. L. *Plataforma Picsel*. Computer program registration **INPI BR 51 2023 000705-6** (titular: Picsel Soluções em Gerenciamento de Risco Ltda; issued 21/03/2023). — https://www.gov.br/inpi/pt-br
+
 **Tech:** Python, GDAL, GeoPandas, Rasterio, PostGIS, Google Earth Engine, Sentinel/HLS, NDVI, GeoTIFF/COG, TensorFlow, AWS Step Functions, Metaflow, Leaflet  
 [Website](https://picsel.com.br)
 
