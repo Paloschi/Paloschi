@@ -21,9 +21,10 @@
 
 ## About Me
 
-- Senior Geospatial Engineer with a PhD in Remote Sensing from INPE
+- Senior Geospatial Engineer with a PhD in Remote Sensing from INPE (Caatinga water use, phenology, and sap flow)
 - Co-founder of Picsel: I own the geospatial stack for agricultural insurance
 - I turn satellite, climate, and soil data into risk and yield products
+- Also design field instrumentation (ESP32 / ATmega loggers) for ecohydrology campaigns
 - From raster pipelines and Earth Engine to PostGIS, APIs, and maps in production
 
 ---
@@ -80,7 +81,14 @@ B2B sustainability marketplace for the EU (eco grade GmbH) — from compliance-g
 **Tech:** Next.js, React, PostgreSQL, Stripe, Vitest  
 [Website](https://eco-grade.com)
 
-### 5. CyMP
+### 5. SapFlow Logger
+
+Open-source **Granier-style sap-flow field logger** (ESP32, microSD, Bluetooth Low Energy, phone download). Hardware 6.0 is in the repo; earlier thesis-era units supported Caatinga water-use work at INPE (see [Paloschi et al. 2021](https://doi.org/10.3390/rs13010075) and the [PhD thesis](http://urlib.net/sid.inpe.br/mtc-m21c/2021/01.13.15.06)).
+
+**Tech:** ESP32, Arduino, BLE, SD, RTClib / INA219 / thermocouple  
+[Repository](https://github.com/Paloschi/sapflow-logger)
+
+### 6. CyMP
 
 Open-source Crop-yield Modeling Platform for spatial agricultural yield estimation, developed at UNIOESTE. AquaCrop-Grid started here.  
 **Tech:** Python, Remote Sensing, GIS  
