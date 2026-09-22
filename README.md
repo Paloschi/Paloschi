@@ -83,12 +83,15 @@ B2B sustainability marketplace for the EU (eco grade GmbH) — from compliance-g
 
 ### 5. SapFlow Logger
 
-Open-source **Granier-style sap-flow field logger** (ESP32, microSD, Bluetooth Low Energy, phone download). Hardware 6.0 is in this repo; earlier thesis-era units supported Caatinga campaigns at INPE.
+Open-source **Granier-style sap-flow field logger** (ESP32, microSD, Bluetooth Low Energy, phone download). Hardware 6.0 is open in this repo; earlier thesis-era units supported Caatinga work at INPE.
 
-Selected citations (thesis-era logger):
-- [Paloschi et al. 2021](https://doi.org/10.3390/rs13010075) — *Remote Sensing* (first author): environmental drivers of Caatinga water use with sap flow + phenology
-- [Ventura et al. 2024](https://doi.org/10.22541/au.173397840.03126234/v1) — Authorea (co-author; Dione Judite Ventura lead): seasonal water sources for Caatinga woody plants
-- [PhD thesis, INPE](http://urlib.net/sid.inpe.br/mtc-m21c/2021/01.13.15.06) — *Seasonality of water availability, plant phenology, and plant transpiration in a Brazilian Caatinga environment…*
+**Citations**
+
+- Paloschi, R. A., et al. (2021). Environmental Drivers of Water Use for Caatinga Woody Plant Species: Combining Remote Sensing Phenology and Sap Flow Measurements. *Remote Sensing*, 13(1), 75. — https://doi.org/10.3390/rs13010075
+- Ventura, D. J., et al. (2024). Seasonal dynamics of water sources for woody plants in the Caatinga. Authorea preprint. — https://doi.org/10.22541/au.173397840.03126234/v1
+- Paloschi, R. A. (2020/2021). *Seasonality of water availability, plant phenology, and plant transpiration in a Brazilian Caatinga environment investigated by in situ and remote sensing data*. Ph.D. thesis, INPE. — http://urlib.net/sid.inpe.br/mtc-m21c/2021/01.13.15.06
+- Medeiros, M., et al. (2025). Seasonal shifts in tree water use and non-structural carbohydrate storage in a tropical dry forest. *Plant, Cell & Environment*, 48(6), 4518–4532. — https://doi.org/10.1111/pce.15449
+- Jesus, A. L. N., et al. (2025). Semiarid woody plant functional groups contribute differently to canopy conductance. *Journal of Arid Environments*. — https://doi.org/10.1016/j.jaridenv.2025.105318
 
 **Tech:** ESP32, Arduino, BLE, SD, RTClib / INA219 / thermocouple  
 [Repository](https://github.com/Paloschi/sapflow-logger)
