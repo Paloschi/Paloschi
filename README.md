@@ -14,7 +14,7 @@
   <a href="https://github.com/Paloschi">
     <img src="https://img.shields.io/github/stars/Paloschi?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Paloschi&style=for-the-badge&color=blue" alt="Profile views" />
+  <img src="https://hits.sh/github.com/Paloschi.svg?style=for-the-badge&label=Profile%20views&extraCount=174&color=007ec6&labelColor=555" alt="Profile views" />
 </p>
 
 ---
