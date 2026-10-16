@@ -17,6 +17,16 @@
   <img src="https://hits.sh/github.com/Paloschi.svg?style=for-the-badge&label=Profile%20views&extraCount=174&color=007ec6&labelColor=555" alt="Profile views" />
 </p>
 
+<p align="center">
+  If you find my work useful, consider supporting its development through GitHub Sponsors:
+</p>
+
+<p align="center">
+  <a href="https://github.com/sponsors/Paloschi">
+    <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
+  </a>
+</p>
+
 ---
 
 ## About Me
